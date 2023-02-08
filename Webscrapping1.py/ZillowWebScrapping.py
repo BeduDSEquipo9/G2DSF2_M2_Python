@@ -9,9 +9,9 @@ import warnings
 warnings.filterwarnings('ignore')
 
 city = ["nyc","Los-Angeles","chicago","boston","San-Francisco","washington-dc"]
-#'austin/' #*****change this city to what you want!!!!*****
+#'austin/'
 
-#add headers in case you use chromedriver (captchas are no fun); namely used for chromedriver
+
 req_headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'accept-encoding': 'gzip, deflate, br',
@@ -27,8 +27,7 @@ def make_frame(frame):
             frame = frame.append(item, ignore_index=True)
     return frame
 
-#just grabbing the first 20 pages
-#feel free to make this prettier
+#just grabbing the first 10 pages per city
 data_list=[]
 for index in range(len(city)):
     print("City List: ", city[index])

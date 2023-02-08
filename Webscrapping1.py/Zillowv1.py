@@ -79,13 +79,13 @@ data_list = [data1,data2,data3,data4,data5,data6,data7,data8,data9,data10]
 
 df = pd.DataFrame()
 
-def make_dataframe(dataframe):
+def to_dataframe(dataframe):
     for i in data_list:
         #JSON location
         for item in i['cat1']['searchResults']['listResults']:
             dataframe = dataframe.append(item, ignore_index=True)
     return dataframe
 
-df = make_dataframe(df)
+df = to_dataframe(df)
 #Save Dataframe to a csv file
 df.to_csv('data_Chicago.csv', index=False)
