@@ -1,0 +1,2123 @@
+{
+    "user": {
+        "isLoggedIn": false,
+        "email": "",
+        "displayName": "",
+        "hasHousingConnectorPermission": false,
+        "savedHomesCount": 0,
+        "personalizedSearchGaDataTag": null,
+        "personalizedSearchTraceID": "63e48b637a535cb3dbe3dfadcb480bfa",
+        "guid": "2b01de4d-d0c5-45d6-b557-f293f21cbedb",
+        "zuid": "",
+        "isBot": false,
+        "userSpecializedSEORegion": false
+    },
+    "mapState": {
+        "customRegionPolygonWkt": null,
+        "schoolPolygonWkt": null,
+        "isCurrentLocationSearch": false,
+        "userPosition": {
+            "lat": null,
+            "lon": null
+        }
+    },
+    "regionState": {
+        "regionInfo": [
+            {
+                "regionType": 6,
+                "regionId": 6181,
+                "regionName": "New York",
+                "displayName": "New York NY",
+                "isPointRegion": false
+            }
+        ],
+        "regionBounds": {
+            "north": 40.917577,
+            "east": -73.700272,
+            "south": 40.477399,
+            "west": -74.25909
+        }
+    },
+    "searchPageSeoObject": {
+        "baseUrl": "/new-york-ny/rentals/",
+        "windowTitle": "Rental Listings in New York NY - 9421 Rentals | Zillow",
+        "metaDescription": "This is a list of all of the rental listings in New York NY. Don't forget to use the filters and set up a saved search."
+    },
+    "requestId": 3,
+    "cat1": {
+        "searchResults": {
+            "listResults": [
+                {
+                    "zpid": "40.588963--73.79774",
+                    "id": "40.588963--73.79774",
+                    "lotId": 2355011519,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/00ca20c0f040f67e66bfc6738275e5fa-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "The Tides At Arverne By The Sea",
+                    "detailUrl": "/b/the-tides-at-arverne-by-the-sea-arverne-ny-BLWH7Z/",
+                    "latLong": {
+                        "latitude": 40.588963,
+                        "longitude": -73.79774
+                    },
+                    "units": [
+                        {
+                            "price": "$2,250+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,800+",
+                            "beds": "1"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "The Tides At Arverne By The Sea",
+                    "isBuilding": true,
+                    "address": "190 Beach 69th St, Arverne, NY",
+                    "addressStreet": "190 Beach 69th St   # 94b009ec3",
+                    "addressState": "NY",
+                    "addressCity": "Arverne",
+                    "addressZipcode": "11692",
+                    "providerListingId": "3ww16b7ysk4v2",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.69933--73.80668",
+                    "id": "40.69933--73.80668",
+                    "lotId": 2565635928,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/b71a57e7b2d6089e7b21e070a58b18d4-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Alvista Rise",
+                    "detailUrl": "/b/alvista-rise-jamaica-ny-C64Xjv/",
+                    "latLong": {
+                        "latitude": 40.69933,
+                        "longitude": -73.80668
+                    },
+                    "units": [
+                        {
+                            "price": "$2,400+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,850+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$3,093+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Alvista Rise",
+                    "isBuilding": true,
+                    "address": "147-25 94th Ave, Jamaica, NY",
+                    "addressStreet": "147-25 94th Ave  # 805",
+                    "addressState": "NY",
+                    "addressCity": "Jamaica",
+                    "addressZipcode": "11435",
+                    "providerListingId": "vnqcny5qr65a",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.74847--73.93796",
+                    "id": "40.74847--73.93796",
+                    "lotId": 2179699065,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/7ab8ec1ee70b1d2740445e4939ce1bbd-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Jackson Park",
+                    "detailUrl": "/b/jackson-park-long-island-city-ny-9j78gP/",
+                    "latLong": {
+                        "latitude": 40.74847,
+                        "longitude": -73.93796
+                    },
+                    "units": [
+                        {
+                            "price": "$3,112+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$3,346+",
+                            "beds": "1"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Jackson Park",
+                    "isBuilding": true,
+                    "address": "28 Jackson Ave, Long Island City, NY",
+                    "addressStreet": "28 Jackson Ave  # 42M",
+                    "addressState": "NY",
+                    "addressCity": "Long Island City",
+                    "addressZipcode": "11101",
+                    "providerListingId": "1e74v7nrwh6bu",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.68774--73.978584",
+                    "id": "40.68774--73.978584",
+                    "lotId": 1150265242,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/65d8d1ba949d63b1c6687c7eef3a565a-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "The Ashland",
+                    "detailUrl": "/b/the-ashland-brooklyn-ny-65X6Ys/",
+                    "latLong": {
+                        "latitude": 40.68774,
+                        "longitude": -73.978584
+                    },
+                    "units": [
+                        {
+                            "price": "$3,795+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$3,768+",
+                            "beds": "1"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": {
+                        "type": "INCOME_RESTRICTED",
+                        "text": "Income Restricted"
+                    },
+                    "buildingName": "The Ashland",
+                    "isBuilding": true,
+                    "address": "250 Ashland Pl, Brooklyn, NY",
+                    "addressStreet": "250 Ashland Pl   # 25J",
+                    "addressState": "NY",
+                    "addressCity": "Brooklyn",
+                    "addressZipcode": "11217",
+                    "providerListingId": "4bjnz7fss3zd6",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.6294--74.07401",
+                    "id": "40.6294--74.07401",
+                    "lotId": 1151147195,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/78c1a798994661258f2dcb0e7f6cb21e-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Staten Island Urby",
+                    "detailUrl": "/b/staten-island-urby-staten-island-ny-65gZtv/",
+                    "latLong": {
+                        "latitude": 40.6294,
+                        "longitude": -74.07401
+                    },
+                    "units": [
+                        {
+                            "price": "$2,306+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,487+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$3,450+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Staten Island Urby",
+                    "isBuilding": true,
+                    "address": "7 Navy Pier Ct, Staten Island, NY",
+                    "addressStreet": "7 Navy Pier Ct   # 8-3018",
+                    "addressState": "NY",
+                    "addressCity": "Staten Island",
+                    "addressZipcode": "10304",
+                    "providerListingId": "g22acrryz1uw",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.70381--73.806145",
+                    "id": "40.70381--73.806145",
+                    "lotId": 2010270546,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/edbf053a16fa4a39a3bd581391ba0d62-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Parkside Manor",
+                    "detailUrl": "/b/parkside-manor-jamaica-ny-97j2sW/",
+                    "latLong": {
+                        "latitude": 40.70381,
+                        "longitude": -73.806145
+                    },
+                    "units": [
+                        {
+                            "price": "$1,970+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,250+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,900+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Parkside Manor",
+                    "isBuilding": true,
+                    "address": "14831 90th Ave, Jamaica, NY",
+                    "addressStreet": "14831 90th Ave  # f16310f91",
+                    "addressState": "NY",
+                    "addressCity": "Jamaica",
+                    "addressZipcode": "11435",
+                    "providerListingId": "4bnfxc13a3mv0",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.750156--73.936195",
+                    "id": "40.750156--73.936195",
+                    "lotId": 2560384211,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/6d8c867225296ddf734ce644bfc54896-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Sven LIC",
+                    "detailUrl": "/b/sven-lic-long-island-city-ny-C58vR2/",
+                    "latLong": {
+                        "latitude": 40.750156,
+                        "longitude": -73.936195
+                    },
+                    "units": [
+                        {
+                            "price": "$3,664+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,000+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$5,630+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$7,108+",
+                            "beds": "3"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Sven LIC",
+                    "isBuilding": true,
+                    "address": "29-59 Northern Blvd, Long Island City, NY",
+                    "addressStreet": "29-59 Northern Blvd # 62D",
+                    "addressState": "NY",
+                    "addressCity": "Long Island City",
+                    "addressZipcode": "11101",
+                    "providerListingId": "ce0n2c2kh54c",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.760735--73.96113",
+                    "id": "40.760735--73.96113",
+                    "lotId": 2297275340,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/9ef7a920e751ad5d772358b236ddee67-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Waterline Square",
+                    "detailUrl": "/b/waterline-square-new-york-ny-B8VWPD/",
+                    "latLong": {
+                        "latitude": 40.760735,
+                        "longitude": -73.96113
+                    },
+                    "units": [
+                        {
+                            "price": "$4,791+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$5,769+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$9,642+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$18,241+",
+                            "beds": "3"
+                        },
+                        {
+                            "price": "$14,704+",
+                            "beds": "4"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Waterline Square",
+                    "isBuilding": true,
+                    "address": "400 W 61st St, New York, NY",
+                    "addressStreet": "400 W  61st St   # 2302",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10023",
+                    "providerListingId": "366qg8ju3bsfg",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2060700599",
+                    "id": "2060700599",
+                    "providerListingId": "366qg8ju3bsfg",
+                    "imgSrc": "https://photos.zillowstatic.com/fp/9ef7a920e751ad5d772358b236ddee67-p_e.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/b/waterline-square-new-york-ny-B8VWPD/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$8,558+/mo",
+                    "unformattedPrice": 8558,
+                    "address": "Waterline Square, 400 W 61st St, New York, NY 10023",
+                    "addressStreet": "400 W 61st St #2712531",
+                    "addressCity": "New York",
+                    "addressState": "NY",
+                    "addressZipcode": "10023",
+                    "isUndisclosedAddress": false,
+                    "beds": 1,
+                    "baths": 1.0,
+                    "area": 907,
+                    "latLong": {
+                        "latitude": 40.77317,
+                        "longitude": -73.99127
+                    },
+                    "isZillowOwned": false,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "3 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "badgeInfo": null,
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2060700599,
+                            "streetAddress": "400 W 61st St #2712531",
+                            "zipcode": "10023",
+                            "city": "New York",
+                            "state": "NY",
+                            "latitude": 40.77317,
+                            "longitude": -73.99127,
+                            "price": 8558.0,
+                            "bathrooms": 1.0,
+                            "bedrooms": 1.0,
+                            "livingArea": 907.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "daysOnZillow": -1,
+                            "isFeatured": true,
+                            "shouldHighlight": false,
+                            "isRentalWithBasePrice": false,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 8558.0,
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "# 2712531"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "isHomeRec": false,
+                    "brokerName": "Listing by: Windsor Property Management Co.",
+                    "hasAdditionalAttributions": true,
+                    "isFeaturedListing": true,
+                    "availabilityDate": null,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.70073--73.806465",
+                    "id": "40.70073--73.806465",
+                    "lotId": 2510180978,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/e66116306656651c94ad3c9dfbefee3b-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Jamaica Station Crossing",
+                    "detailUrl": "/b/jamaica-station-crossing-jamaica-ny-BtRC8F/",
+                    "latLong": {
+                        "latitude": 40.70073,
+                        "longitude": -73.806465
+                    },
+                    "units": [
+                        {
+                            "price": "$2,040+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,295+",
+                            "beds": "1"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Jamaica Station Crossing",
+                    "isBuilding": true,
+                    "address": "147-40 Archer Ave, Jamaica, NY",
+                    "addressStreet": "147-40 Archer Ave  # 942245d62",
+                    "addressState": "NY",
+                    "addressCity": "Jamaica",
+                    "addressZipcode": "11435",
+                    "providerListingId": "yy5evqqv7r9f",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.858524--73.854546",
+                    "id": "40.858524--73.854546",
+                    "lotId": 2313826062,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/d724f69308159be44cb322d0f5df00e1-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Pelham Park View",
+                    "detailUrl": "/b/pelham-park-view-bronx-ny-BCNCf4/",
+                    "latLong": {
+                        "latitude": 40.858524,
+                        "longitude": -73.854546
+                    },
+                    "units": [
+                        {
+                            "price": "$2,709+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Pelham Park View",
+                    "isBuilding": true,
+                    "address": "1135 Pelham Pkwy, Bronx, NY",
+                    "addressStreet": "1135 Pelham Pkwy # 696",
+                    "addressState": "NY",
+                    "addressCity": "Bronx",
+                    "addressZipcode": "10469",
+                    "providerListingId": "1phaecvg24a7p",
+                    "canSaveBuilding": false,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.755264--73.82179",
+                    "id": "40.755264--73.82179",
+                    "lotId": 2174027909,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/aff2fd719401677c777d8448b635b483-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "140-60 Beech LLC",
+                    "detailUrl": "/b/140-60-beech-llc-flushing-ny-9h7wgW/",
+                    "latLong": {
+                        "latitude": 40.755264,
+                        "longitude": -73.82179
+                    },
+                    "units": [
+                        {
+                            "price": "$1,700+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,000+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,599+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "140-60 Beech LLC",
+                    "isBuilding": true,
+                    "address": "140-60 Beech Ave, Flushing, NY",
+                    "addressStreet": "140-60 Beech Ave  # bf63c0fb9",
+                    "addressState": "NY",
+                    "addressCity": "Flushing",
+                    "addressZipcode": "11355",
+                    "providerListingId": "3axa4gchnzj8a",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.59547--73.75555",
+                    "id": "40.59547--73.75555",
+                    "lotId": 2171488054,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/4433bc4bb4f435de09f011a5ebe76394-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Wavecrest Gardens",
+                    "detailUrl": "/b/wavecrest-gardens-far-rockaway-ny-97knd2/",
+                    "latLong": {
+                        "latitude": 40.59547,
+                        "longitude": -73.75555
+                    },
+                    "units": [
+                        {
+                            "price": "$1,450+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$1,899+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,199+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Wavecrest Gardens",
+                    "isBuilding": true,
+                    "address": "20-10 Seagirt Blvd, Far Rockaway, NY",
+                    "addressStreet": "20-10 Seagirt Blvd # 766",
+                    "addressState": "NY",
+                    "addressCity": "Far Rockaway",
+                    "addressZipcode": "11691",
+                    "providerListingId": "2c7w0kpjvk7yq",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.703262--73.798485",
+                    "id": "40.703262--73.798485",
+                    "lotId": 2577962296,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/4185ea207a718dded09aeb08de3cc6db-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "One Archer",
+                    "detailUrl": "/b/one-archer-jamaica-ny-C8CKZR/",
+                    "latLong": {
+                        "latitude": 40.703262,
+                        "longitude": -73.798485
+                    },
+                    "units": [
+                        {
+                            "price": "$2,260+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,655+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$3,730+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "One Archer",
+                    "isBuilding": true,
+                    "address": "92-27 160th St, Jamaica, NY",
+                    "addressStreet": "92-27 160th St   # 1212",
+                    "addressState": "NY",
+                    "addressCity": "Jamaica",
+                    "addressZipcode": "11433",
+                    "providerListingId": "18nkaq8ejg11t",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.709915--73.79607",
+                    "id": "40.709915--73.79607",
+                    "lotId": 1003190227,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/07aa2ce3f7e659e978e9820115ae0802-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Hillside Place",
+                    "detailUrl": "/b/hillside-place-jamaica-ny-5Y2yqx/",
+                    "latLong": {
+                        "latitude": 40.709915,
+                        "longitude": -73.79607
+                    },
+                    "units": [
+                        {
+                            "price": "$1,650+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,099+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,499+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Hillside Place",
+                    "isBuilding": true,
+                    "address": "8750 167th St, Jamaica, NY",
+                    "addressStreet": "8750 167th St   # 1697853",
+                    "addressState": "NY",
+                    "addressCity": "Jamaica",
+                    "addressZipcode": "11432",
+                    "providerListingId": "4kw7mbykrnzgy",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.79471--73.96675",
+                    "id": "40.79471--73.96675",
+                    "lotId": 1000047013,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/3c5253892469c6b361a3ef60786feff9-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Columbus Square",
+                    "detailUrl": "/b/columbus-square-new-york-ny-5XTGhj/",
+                    "latLong": {
+                        "latitude": 40.79471,
+                        "longitude": -73.96675
+                    },
+                    "units": [
+                        {
+                            "price": "$3,349+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,689+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,497+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Columbus Square",
+                    "isBuilding": true,
+                    "address": "808 Columbus Ave, New York, NY",
+                    "addressStreet": "808 Columbus Ave  Apt 6D",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10025",
+                    "providerListingId": "4e3u0yk2psckd",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.706898--73.80466",
+                    "id": "40.706898--73.80466",
+                    "lotId": 2176833280,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/3733b055bcf7fdb0631546ded8bd6c3f-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Park Haven Place",
+                    "detailUrl": "/b/park-haven-place-jamaica-ny-9hbn6z/",
+                    "latLong": {
+                        "latitude": 40.706898,
+                        "longitude": -73.80466
+                    },
+                    "units": [
+                        {
+                            "price": "$1,700+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,199+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,599+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Park Haven Place",
+                    "isBuilding": true,
+                    "address": "88 153rd St, Jamaica, NY",
+                    "addressStreet": "88 153rd St   # 1696886",
+                    "addressState": "NY",
+                    "addressCity": "Jamaica",
+                    "addressZipcode": "11432",
+                    "providerListingId": "3j10zd9csyb2v",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.878735--73.91449",
+                    "id": "40.878735--73.91449",
+                    "lotId": 130939,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/52b4ab4c1c834d971a10f42f58f7c082-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "The Century",
+                    "detailUrl": "/b/the-century-bronx-ny-37XF/",
+                    "latLong": {
+                        "latitude": 40.878735,
+                        "longitude": -73.91449
+                    },
+                    "units": [
+                        {
+                            "price": "$2,400+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,500+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$3,500+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "The Century",
+                    "isBuilding": true,
+                    "address": "2600 Netherland Ave, Bronx, NY",
+                    "addressStreet": "2600 Netherland Ave  Apt 2309",
+                    "addressState": "NY",
+                    "addressCity": "Bronx",
+                    "addressZipcode": "10463",
+                    "providerListingId": "4jqyfzt6j8c2c",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.83094--73.92949",
+                    "id": "40.83094--73.92949",
+                    "lotId": 1108948049,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/169bd8d55690d5f499b0b87576584bc5-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Noonan Towers",
+                    "detailUrl": "/b/noonan-towers-bronx-ny-5wMvFr/",
+                    "latLong": {
+                        "latitude": 40.83094,
+                        "longitude": -73.92949
+                    },
+                    "units": [
+                        {
+                            "price": "$1,677+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,524+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Noonan Towers",
+                    "isBuilding": true,
+                    "address": "939 Woodycrest Ave, Bronx, NY",
+                    "addressStreet": "939 Woodycrest Ave  # 666",
+                    "addressState": "NY",
+                    "addressCity": "Bronx",
+                    "addressZipcode": "10452",
+                    "providerListingId": "1r2y9kns7fpse",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.691814--73.982994",
+                    "id": "40.691814--73.982994",
+                    "lotId": 2009531814,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/2e049e53ee864b2969b4243044511797-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Brooklyn Point",
+                    "detailUrl": "/b/brooklyn-point-brooklyn-ny-97ZkCM/",
+                    "latLong": {
+                        "latitude": 40.691814,
+                        "longitude": -73.982994
+                    },
+                    "units": [
+                        {
+                            "price": "$5,075+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$7,495+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$10,495+",
+                            "beds": "3"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Brooklyn Point",
+                    "isBuilding": true,
+                    "address": "138 Willoughby St, Brooklyn, NY",
+                    "addressStreet": "138 Willoughby St   # e90958a56",
+                    "addressState": "NY",
+                    "addressCity": "Brooklyn",
+                    "addressZipcode": "11201",
+                    "providerListingId": "2g0reya8zk5pz",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.745895--73.97929",
+                    "id": "40.745895--73.97929",
+                    "lotId": 533483,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/725957a6574b68216333f141abac2792-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Marquis Apartments",
+                    "detailUrl": "/b/marquis-apartments-new-york-ny-6XCQ/",
+                    "latLong": {
+                        "latitude": 40.745895,
+                        "longitude": -73.97929
+                    },
+                    "units": [
+                        {
+                            "price": "$3,540+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$3,995+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$5,095+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Marquis Apartments",
+                    "isBuilding": true,
+                    "address": "150 E 34th St, New York, NY",
+                    "addressStreet": "150 E  34th St   # MHM0301",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10016",
+                    "providerListingId": "2crcwku8xkp16",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.74365--73.97271",
+                    "id": "40.74365--73.97271",
+                    "lotId": 1000023258,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/468c48ed0f470c4ebd017935a622de17-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "View 34",
+                    "detailUrl": "/b/view-34-new-york-ny-5XT4pw/",
+                    "latLong": {
+                        "latitude": 40.74365,
+                        "longitude": -73.97271
+                    },
+                    "units": [
+                        {
+                            "price": "$3,378+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$3,828+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,454+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$7,530+",
+                            "beds": "3"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "View 34",
+                    "isBuilding": true,
+                    "address": "401 E 34th St, New York, NY",
+                    "addressStreet": "401 E  34th St   Apt N29A",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10016",
+                    "providerListingId": "2st5jtst6xwr4",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2107995859",
+                    "id": "2107995859",
+                    "providerListingId": "42dum67rvvcg9",
+                    "imgSrc": "https://photos.zillowstatic.com/fp/a8751dc221e3955a721c7301bb0ffc8f-p_e.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/b/atlas-new-york-manhattan-ny-27nq/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$3,895/mo",
+                    "unformattedPrice": 3895,
+                    "address": "Atlas New York, 66 W 38th St APT 16C, New York, NY 10018",
+                    "addressStreet": "66 W 38th St APT 16C",
+                    "addressCity": "New York",
+                    "addressState": "NY",
+                    "addressZipcode": "10018",
+                    "isUndisclosedAddress": false,
+                    "beds": 0,
+                    "baths": 1.0,
+                    "area": null,
+                    "latLong": {
+                        "latitude": 40.751972,
+                        "longitude": -73.9857
+                    },
+                    "isZillowOwned": false,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "11 days ago",
+                        "data": {
+                            "isFresh": false
+                        }
+                    },
+                    "badgeInfo": null,
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2107995859,
+                            "streetAddress": "66 W 38th St APT 16C",
+                            "zipcode": "10018",
+                            "city": "New York",
+                            "state": "NY",
+                            "latitude": 40.751972,
+                            "longitude": -73.9857,
+                            "price": 3895.0,
+                            "bathrooms": 1.0,
+                            "bedrooms": 0.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "daysOnZillow": -1,
+                            "isFeatured": true,
+                            "shouldHighlight": false,
+                            "isRentalWithBasePrice": false,
+                            "rentZestimate": 3711,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 3895.0,
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "Apt 16C"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "isHomeRec": false,
+                    "brokerName": "Listing by: Gotham",
+                    "hasAdditionalAttributions": true,
+                    "isFeaturedListing": true,
+                    "availabilityDate": "2023-03-27 00:00:00",
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.76221--73.99658",
+                    "id": "40.76221--73.99658",
+                    "lotId": 1001683821,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/67353d6107b960e27d1dab81b0a83770-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Gotham West",
+                    "detailUrl": "/b/gotham-west-manhattan-ny-5XmBQy/",
+                    "latLong": {
+                        "latitude": 40.76221,
+                        "longitude": -73.99658
+                    },
+                    "units": [
+                        {
+                            "price": "$3,681+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,200+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,170+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Gotham West",
+                    "isBuilding": true,
+                    "address": "550 W 45th St, New York, NY",
+                    "addressStreet": "550 W  45th St   Apt 316",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10036",
+                    "providerListingId": "1h62ejjnxh1r8",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.711334--74.0168",
+                    "id": "40.711334--74.0168",
+                    "lotId": 1001493439,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/f669ca5fae39e50ff135fcff4f1f5a14-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Gateway",
+                    "detailUrl": "/b/gateway-new-york-ny-5XjY8c/",
+                    "latLong": {
+                        "latitude": 40.711334,
+                        "longitude": -74.0168
+                    },
+                    "units": [
+                        {
+                            "price": "$3,280+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,215+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,185+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Gateway",
+                    "isBuilding": true,
+                    "address": "389 S End Ave, New York, NY",
+                    "addressStreet": "389 S  End Ave  # 14P",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10280",
+                    "providerListingId": "25bk474k5y5cd",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.70457--74.00886",
+                    "id": "40.70457--74.00886",
+                    "lotId": 1044499437,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/2af3de4b25cce04aa83771e5fee1273e-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "10 Hanover Square",
+                    "detailUrl": "/b/10-hanover-square-new-york-ny-5hC6r4/",
+                    "latLong": {
+                        "latitude": 40.70457,
+                        "longitude": -74.00886
+                    },
+                    "units": [
+                        {
+                            "price": "$3,075+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$3,729+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,300+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "10 Hanover Square",
+                    "isBuilding": true,
+                    "address": "10 Hanover Sq, New York, NY",
+                    "addressStreet": "10 Hanover Sq   Apt 18-E",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10005",
+                    "providerListingId": "37g9ymbhwsszf",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.752235--74.00434",
+                    "id": "40.752235--74.00434",
+                    "lotId": 10832,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/a9c02f1e4e72cb8d51d59822f30a60cf-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Avalon West Chelsea",
+                    "detailUrl": "/b/avalon-west-chelsea-new-york-ny-26W5/",
+                    "latLong": {
+                        "latitude": 40.752235,
+                        "longitude": -74.00434
+                    },
+                    "units": [
+                        {
+                            "price": "$3,916+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,819+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,626+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Avalon West Chelsea",
+                    "isBuilding": true,
+                    "address": "282 11th Ave, New York, NY",
+                    "addressStreet": "282 11th Ave  # 2278b79fd",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10001",
+                    "providerListingId": "374gt3rkuu4bk",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.704678--74.007576",
+                    "id": "40.704678--74.007576",
+                    "lotId": 1000000545,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/39db1832519a9c3c8fe50d2f7a1292d8-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "95 Wall",
+                    "detailUrl": "/b/95-wall-new-york-ny-5XSsMP/",
+                    "latLong": {
+                        "latitude": 40.704678,
+                        "longitude": -74.007576
+                    },
+                    "units": [
+                        {
+                            "price": "$3,296+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,449+",
+                            "beds": "1"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "95 Wall",
+                    "isBuilding": true,
+                    "address": "95 Wall St, New York, NY",
+                    "addressStreet": "95 Wall St   Apt 1421",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10005",
+                    "providerListingId": "4s0szw49cje3m",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.746876--73.99032",
+                    "id": "40.746876--73.99032",
+                    "lotId": 1000487223,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/b08f54149ccf327b70bab2c2e6dcb48e-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Beatrice",
+                    "detailUrl": "/b/beatrice-manhattan-ny-5XY24b/",
+                    "latLong": {
+                        "latitude": 40.746876,
+                        "longitude": -73.99032
+                    },
+                    "units": [
+                        {
+                            "price": "$4,093+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$5,435+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$7,458+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Beatrice",
+                    "isBuilding": true,
+                    "address": "105 W 29th St, New York, NY",
+                    "addressStreet": "105 W  29th St   # 1-33G",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10001",
+                    "providerListingId": "4gp041ujw01pz",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.736652--73.86645",
+                    "id": "40.736652--73.86645",
+                    "lotId": 2183047006,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/3db85180cfb8effea2a73c96f3aafe95-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "57 Elmhurst LLC",
+                    "detailUrl": "/b/57-elmhurst-llc-elmhurst-ny-9jgb5j/",
+                    "latLong": {
+                        "latitude": 40.736652,
+                        "longitude": -73.86645
+                    },
+                    "units": [
+                        {
+                            "price": "$1,850+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$2,299+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$2,699+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$3,199+",
+                            "beds": "3"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "57 Elmhurst LLC",
+                    "isBuilding": true,
+                    "address": "94-25 57th Ave, Elmhurst, NY",
+                    "addressStreet": "94-25 57th Ave  # 027c509c4",
+                    "addressState": "NY",
+                    "addressCity": "Elmhurst",
+                    "addressZipcode": "11373",
+                    "providerListingId": "h8stqc8rjdjt",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.69398--73.99189",
+                    "id": "40.69398--73.99189",
+                    "lotId": 1002909316,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/2d6f02db58a86f99b38468a3034fd172-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "180 Montague",
+                    "detailUrl": "/b/180-montague-brooklyn-ny-5XyZr5/",
+                    "latLong": {
+                        "latitude": 40.69398,
+                        "longitude": -73.99189
+                    },
+                    "units": [
+                        {
+                            "price": "$3,411+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$3,526+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,418+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$7,909+",
+                            "beds": "3"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated today"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "180 Montague",
+                    "isBuilding": true,
+                    "address": "180 Montague St, Brooklyn, NY",
+                    "addressStreet": "180 Montague St   # 1-29D",
+                    "addressState": "NY",
+                    "addressCity": "Brooklyn",
+                    "addressZipcode": "11201",
+                    "providerListingId": "2z5pdgree0urs",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.79256--73.96801",
+                    "id": "40.79256--73.96801",
+                    "lotId": 1001491756,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/ab1dcb9187a54a2371ac766dc5a5290a-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "The Westmont",
+                    "detailUrl": "/b/the-westmont-manhattan-ny-5XjXRH/",
+                    "latLong": {
+                        "latitude": 40.79256,
+                        "longitude": -73.96801
+                    },
+                    "units": [
+                        {
+                            "price": "$3,608+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$3,772+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,162+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "The Westmont",
+                    "isBuilding": true,
+                    "address": "730 Columbus Ave, New York, NY",
+                    "addressStreet": "730 Columbus Ave  # 1-11E",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10025",
+                    "providerListingId": "5evryte71tq1k",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.737183--73.95842",
+                    "id": "40.737183--73.95842",
+                    "lotId": 2564497958,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/fee06e05473e39fde8b41ef212f6f89b-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "THE BELLSLIP",
+                    "detailUrl": "/b/the-bellslip-brooklyn-ny-C5rsn3/",
+                    "latLong": {
+                        "latitude": 40.737183,
+                        "longitude": -73.95842
+                    },
+                    "units": [
+                        {
+                            "price": "$2,950+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,394+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,988+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "THE BELLSLIP",
+                    "isBuilding": true,
+                    "address": "1 Bell Slip, Brooklyn, NY",
+                    "addressStreet": "1 Bell Slip Apt 18N",
+                    "addressState": "NY",
+                    "addressCity": "Brooklyn",
+                    "addressZipcode": "11222",
+                    "providerListingId": "73tmuh714f9g",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.736507--73.95958",
+                    "id": "40.736507--73.95958",
+                    "lotId": 2404255181,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/eeda582ab67a88c87b4453f2ef33536c-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Two Blue Slip",
+                    "detailUrl": "/b/two-blue-slip-brooklyn-ny-BW4qmH/",
+                    "latLong": {
+                        "latitude": 40.736507,
+                        "longitude": -73.95958
+                    },
+                    "units": [
+                        {
+                            "price": "$3,248+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,510+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,530+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Two Blue Slip",
+                    "isBuilding": true,
+                    "address": "2 Blue Slip, Brooklyn, NY",
+                    "addressStreet": "2 Blue Slip # 29C",
+                    "addressState": "NY",
+                    "addressCity": "Brooklyn",
+                    "addressZipcode": "11222",
+                    "providerListingId": "2xkvr1fznz3fu",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.75141--73.986244",
+                    "id": "40.75141--73.986244",
+                    "lotId": 2181884686,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/47ba64d735b85b5cdff3c8154f3d4075-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Hollingsworth",
+                    "detailUrl": "/b/hollingsworth-manhattan-ny-9jThyv/",
+                    "latLong": {
+                        "latitude": 40.75141,
+                        "longitude": -73.986244
+                    },
+                    "units": [
+                        {
+                            "price": "$3,936+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,768+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,141+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Hollingsworth",
+                    "isBuilding": true,
+                    "address": "70 W 37th St, New York, NY",
+                    "addressStreet": "70 W  37th St   Penthouse 20",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10018",
+                    "providerListingId": "1q479c1aqn0ru",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.76183--73.98581",
+                    "id": "40.76183--73.98581",
+                    "lotId": 1000175615,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/f9af2351f0b229f953050f20b41683db-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Avalon Midtown West",
+                    "detailUrl": "/b/avalon-midtown-west-new-york-ny-5XVMHG/",
+                    "latLong": {
+                        "latitude": 40.76183,
+                        "longitude": -73.98581
+                    },
+                    "units": [
+                        {
+                            "price": "$3,611+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,188+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$5,646+",
+                            "beds": "2"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": null
+                    },
+                    "badgeInfo": {
+                        "type": "INCOME_RESTRICTED",
+                        "text": "Income Restricted"
+                    },
+                    "buildingName": "Avalon Midtown West",
+                    "isBuilding": true,
+                    "address": "250 W 50th St, New York, NY",
+                    "addressStreet": "250 W  50th St   # 23c71d379",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10019",
+                    "providerListingId": "xwg8n9y4rgsu",
+                    "canSaveBuilding": true,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.755676--73.96353",
+                    "id": "40.755676--73.96353",
+                    "lotId": null,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/c9a5be2a9f196631543601a648af4473-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "Oriana",
+                    "detailUrl": "/b/Oriana-New-York-NY/40.755676,-73.96353_ll/",
+                    "latLong": {
+                        "latitude": 40.755676,
+                        "longitude": -73.96353
+                    },
+                    "units": [
+                        {
+                            "price": "$3,894+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$5,944+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$5,263+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$8,761+",
+                            "beds": "3"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "Updated yesterday"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "Oriana",
+                    "isBuilding": true,
+                    "address": "420 E 54th St, New York, NY",
+                    "addressStreet": "420 E  54th St   Apt 2303",
+                    "addressState": "NY",
+                    "addressCity": "New York",
+                    "addressZipcode": "10022",
+                    "providerListingId": "3hfv7hfu1cb7k",
+                    "canSaveBuilding": false,
+                    "has3DModel": false,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "40.734676--73.96002",
+                    "id": "40.734676--73.96002",
+                    "lotId": 1028760118,
+                    "imgSrc": "https://photos.zillowstatic.com/fp/e8c0373208080ea37c29ff7c7ea958df-p_e.jpg",
+                    "hasImage": true,
+                    "statusType": "FOR_RENT",
+                    "statusText": "EAGLE + WEST",
+                    "detailUrl": "/b/eagle-%2b-west-brooklyn-ny-5dSKWS/",
+                    "latLong": {
+                        "latitude": 40.734676,
+                        "longitude": -73.96002
+                    },
+                    "units": [
+                        {
+                            "price": "$3,500+",
+                            "beds": "0"
+                        },
+                        {
+                            "price": "$4,510+",
+                            "beds": "1"
+                        },
+                        {
+                            "price": "$6,705+",
+                            "beds": "2"
+                        },
+                        {
+                            "price": "$11,610+",
+                            "beds": "3"
+                        }
+                    ],
+                    "variableData": {
+                        "type": "3D_HOME",
+                        "text": "3D Tour"
+                    },
+                    "badgeInfo": null,
+                    "buildingName": "EAGLE + WEST",
+                    "isBuilding": true,
+                    "address": "1 Eagle St, Brooklyn, NY",
+                    "addressStreet": "1 Eagle St   Apt 2408",
+                    "addressState": "NY",
+                    "addressCity": "Brooklyn",
+                    "addressZipcode": "11222",
+                    "providerListingId": "7bkqqje5tyae",
+                    "canSaveBuilding": true,
+                    "has3DModel": true,
+                    "isFeaturedListing": true,
+                    "isSaved": false,
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2063175316",
+                    "id": "2063175316",
+                    "providerListingId": "7bkqqje5tyae",
+                    "imgSrc": "https://photos.zillowstatic.com/fp/e8c0373208080ea37c29ff7c7ea958df-p_e.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/b/eagle-%2b-west-brooklyn-ny-5dSKWS/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$5,610/mo",
+                    "unformattedPrice": 5610,
+                    "address": "EAGLE + WEST, 1 Eagle St APT 2401, Brooklyn, NY 11222",
+                    "addressStreet": "1 Eagle St APT 2401",
+                    "addressCity": "Brooklyn",
+                    "addressState": "NY",
+                    "addressZipcode": "11222",
+                    "isUndisclosedAddress": false,
+                    "beds": 1,
+                    "baths": 1.5,
+                    "area": 825,
+                    "latLong": {},
+                    "isZillowOwned": false,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "5 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "badgeInfo": null,
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2063175316,
+                            "streetAddress": "1 Eagle St APT 2401",
+                            "zipcode": "11222",
+                            "city": "Brooklyn",
+                            "state": "NY",
+                            "price": 5610.0,
+                            "bathrooms": 1.5,
+                            "bedrooms": 1.0,
+                            "livingArea": 825.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "daysOnZillow": -1,
+                            "isFeatured": true,
+                            "shouldHighlight": false,
+                            "isRentalWithBasePrice": false,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 5610.0,
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "Apt 2401"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "isHomeRec": false,
+                    "brokerName": "Listing by: Brookfield Properties Multifamily, LLC",
+                    "hasAdditionalAttributions": true,
+                    "isFeaturedListing": true,
+                    "availabilityDate": "2023-01-15 00:00:00",
+                    "list": true,
+                    "relaxed": false
+                },
+                {
+                    "zpid": "2063181727",
+                    "id": "2063181727",
+                    "providerListingId": "7bkqqje5tyae",
+                    "imgSrc": "https://photos.zillowstatic.com/fp/e8c0373208080ea37c29ff7c7ea958df-p_e.jpg",
+                    "hasImage": true,
+                    "detailUrl": "https://www.zillow.com/b/eagle-%2b-west-brooklyn-ny-5dSKWS/",
+                    "statusType": "FOR_RENT",
+                    "statusText": "Apartment for rent",
+                    "countryCurrency": "$",
+                    "price": "$7,810/mo",
+                    "unformattedPrice": 7810,
+                    "address": "EAGLE + WEST, 1 Eagle St #2235, Brooklyn, NY 11222",
+                    "addressStreet": "1 Eagle St #2235",
+                    "addressCity": "Brooklyn",
+                    "addressState": "NY",
+                    "addressZipcode": "11222",
+                    "isUndisclosedAddress": false,
+                    "beds": 2,
+                    "baths": 2.0,
+                    "area": 1171,
+                    "latLong": {},
+                    "isZillowOwned": false,
+                    "variableData": {
+                        "type": "TIME_ON_INFO",
+                        "text": "13 hours ago",
+                        "data": {
+                            "isFresh": true
+                        }
+                    },
+                    "badgeInfo": null,
+                    "hdpData": {
+                        "homeInfo": {
+                            "zpid": 2063181727,
+                            "streetAddress": "1 Eagle St #2235",
+                            "zipcode": "11222",
+                            "city": "Brooklyn",
+                            "state": "NY",
+                            "price": 7810.0,
+                            "bathrooms": 2.0,
+                            "bedrooms": 2.0,
+                            "livingArea": 1171.0,
+                            "homeType": "APARTMENT",
+                            "homeStatus": "FOR_RENT",
+                            "daysOnZillow": -1,
+                            "isFeatured": true,
+                            "shouldHighlight": false,
+                            "isRentalWithBasePrice": false,
+                            "rentZestimate": 7980,
+                            "listing_sub_type": {},
+                            "isUnmappable": false,
+                            "isPreforeclosureAuction": false,
+                            "homeStatusForHDP": "FOR_RENT",
+                            "priceForHDP": 7810.0,
+                            "isNonOwnerOccupied": true,
+                            "isPremierBuilder": false,
+                            "isZillowOwned": false,
+                            "currency": "USD",
+                            "country": "USA",
+                            "unit": "# 2235"
+                        }
+                    },
+                    "isSaved": false,
+                    "isUserClaimingOwner": false,
+                    "isUserConfirmedClaim": false,
+                    "pgapt": "ForRent",
+                    "sgapt": "For Rent",
+                    "zestimate": null,
+                    "shouldShowZestimateAsPrice": false,
+                    "has3DModel": false,
+                    "hasVideo": false,
+                    "isHomeRec": false,
+                    "brokerName": "Listing by: Brookfield Properties Multifamily, LLC",
+                    "hasAdditionalAttributions": true,
+                    "isFeaturedListing": true,
+                    "availabilityDate": null,
+                    "list": true,
+                    "relaxed": false
+                }
+            ],
+            "resultsHash": "6a82387e",
+            "homeRecCount": 0,
+            "showForYouCount": 0,
+            "relaxedResults": [],
+            "relaxedResultsHash": "1"
+        },
+        "searchList": {
+            "expansionDistance": 0,
+            "zeroResultsFilters": null,
+            "pagination": {
+                "nextUrl": "/new-york-ny/rentals/2_p/"
+            },
+            "message": null,
+            "adsConfig": {
+                "navAdSlot": "zillow/search_results_1/rent_general/search_1",
+                "displayAdSlot": "zillow/search_results_1/rent_general/b_right_p1",
+                "targets": {
+                    "guid": "2b01de4d-d0c5-45d6-b557-f293f21cbedb",
+                    "vers": "constellation,srp_ad_target_refactor",
+                    "premieragent": "no",
+                    "state": "NY",
+                    "dma": "43",
+                    "cnty": "Bronx",
+                    "city": "New_York",
+                    "mlat": "40.69656599792171",
+                    "mlong": "-73.979681",
+                    "listtp": "rent_general",
+                    "searchtp": "city"
+                },
+                "needsUpdate": false
+            },
+            "totalResultCount": 9421,
+            "resultsPerPage": 40,
+            "totalPages": 20,
+            "listResultsTitle": "New York NY Rental Listings",
+            "resultContexts": null,
+            "pageRules": "PropertySearchLookupResponseRules(isAdsRestricted=false, lowestLimitSearchResultsCount=null)",
+            "shareConfig": {
+                "csrfToken": "5jLVFDND9bZi9WpbxctwT_yqtFfJhen1cUDWGB0SEbE",
+                "captchaKey": "6Lf2nvMSAAAAAMQ5p6WlAfDEixMdOQgJsij-3_ud"
+            }
+        }
+    },
+    "categoryTotals": {
+        "cat1": {
+            "totalResultCount": 9421
+        },
+        "cat2": {
+            "totalResultCount": 0
+        }
+    }
+}
