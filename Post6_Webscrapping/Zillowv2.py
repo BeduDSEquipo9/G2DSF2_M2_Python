@@ -8,12 +8,14 @@ from time import sleep
 import warnings
 warnings.filterwarnings('ignore')
 
-index=5 #Select 0-5
-heacerIndex=2 #Select 0-3
+
 #Lista de Ciudades
 cities = ["nyc","Los-Angeles","chicago","boston","San-Francisco","washington-dc"]
+#Select 0-5 City
 index=5
-headerIndex=2
+#Select 0-3 User AGENTs
+headerIndex=3
+
 #city = 'Chicago/' #Cambia la ciudad
 city=cities[index]
 
@@ -114,4 +116,4 @@ def to_dataframe(dataframe):
 
 df = to_dataframe(df)
 #Save Dataframe to a csv file
-df.to_csv('data_'+city+'2.csv', index=False)
+df.to_csv('data_'+city+'3.csv', index=False)
