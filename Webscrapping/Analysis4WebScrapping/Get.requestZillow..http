@@ -1,0 +1,31 @@
+	
+GET
+	https://www.zillow.com/search/GetSearchPageState.htm?searchQueryState={"pagination":{},"usersSearchTerm":"New York, NY","mapBounds":{"west":-74.38136862207034,"east":-73.57799337792972,"south":40.490597217797585,"north":40.90446311256308},"regionSelection":[{"regionId":6181,"regionType":6}],"isMapVisible":false,"filterState":{"isForSaleByAgent":{"value":false},"isForSaleByOwner":{"value":false},"isNewConstruction":{"value":false},"isForSaleForeclosure":{"value":false},"isComingSoon":{"value":false},"isAuction":{"value":false},"isForRent":{"value":true},"isAllHomes":{"value":true}},"isListVisible":true,"mapZoom":11}&wants={"cat1":["listResults"]}&requestId=4
+Transferred0 GB (0 GB size)
+Referrer Policyno-referrer
+
+	
+Accept
+	*/*
+Accept-Encoding
+	gzip, deflate, br
+Accept-Language
+	en-US,en;q=0.5
+Connection
+	keep-alive
+Cookie
+	AWSALB=az5QUxZ83JfxAFgd9Zd9q3UbI6tGO7e9D5r4cKc/Xbzvn07EKZqX0u/Fq0AWJiAN3CLlbMA8RXjMrGqVyYxF3w+efW+MOdnEq5l9YydTtdehnh7yp0ztThd3xMZC; AWSALBCORS=az5QUxZ83JfxAFgd9Zd9q3UbI6tGO7e9D5r4cKc/Xbzvn07EKZqX0u/Fq0AWJiAN3CLlbMA8RXjMrGqVyYxF3w+efW+MOdnEq5l9YydTtdehnh7yp0ztThd3xMZC; zguid=24|%242b01de4d-d0c5-45d6-b557-f293f21cbedb; zjs_anonymous_id=%222b01de4d-d0c5-45d6-b557-f293f21cbedb%22; zjs_user_id=null; zg_anonymous_id=%220e2d3d45-3b22-4eff-b1d5-4cc7f74bb4dc%22; _pxvid=3c23eac0-9f5e-11ed-bee1-676b75504778; _gcl_au=…%22www.zillow.com%22%2C%22h%22%3A%22%2F%22%7D; _px3=f54f6b00c575631a140d557d8b6bcc60d50da691c4a016844e68bd94b7ec1554:hB7Elwv8z28+2beJ51tFG4xHiWKHrlaF3FjEpv61srsX4jbeTuZ2BcVmiitB8RW8M6GDiakF1bvG1mKWZk9SYg==:1000:6iN/3pOmiXmAT0C2ullzPhxjiKXR/7jBWBjUSzHTDO5ebi4QgSPOa2y6RBXnRGxfn7mUJa7uPovtAwQoSoj+rKTM8iXPiQK9ZCh6ehmEQFIL57HS0Jquc65yi8+bNW0Z3RA2jmz9BHt2+D8NITFge9y6oS5PSxub5GhFo7VW/xyD+CgjVCdRMbB5kMVtxhd3v/4I4x/KLzN3eTKGCHieHA==; _uetsid=d82ed000a10911ed8dce13c735983595; _uetvid=0f76e8109f5e11ed852aa128397bf2fb
+DNT
+	1
+Host
+	www.zillow.com
+Sec-Fetch-Dest
+	empty
+Sec-Fetch-Mode
+	cors
+Sec-Fetch-Site
+	same-origin
+TE
+	trailers
+User-Agent
+	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0
